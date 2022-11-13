@@ -6,7 +6,7 @@
 ### <div align="center">I'm TeleGalaxy，a  student</div>  
   
 
-- 🔭 I’m learning Vue.js  
+- 🔭 I’m learning Vue.j  
   
 
 - ⚡ Fun fact: My program keeps having bugs  
@@ -42,6 +42,10 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
+
+
+
 
 <br/>  
 
@@ -61,15 +65,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=telegalaxy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
   
 
 <br/>  
